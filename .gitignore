@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignoring jupyter file cache
+**/.ipynb_checkpoints
+
+#ignoring models source code repo
+Master OpenCV/
+keras-retinanet/
+models/
+PaddleDetection/
+tensorflow-yolov4-tflite/
