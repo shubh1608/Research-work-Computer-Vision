@@ -137,3 +137,12 @@ keras-retinanet/
 models/
 PaddleDetection/
 tensorflow-yolov4-tflite/
+dataset/
+
+#ignoring image(*.jpg) file
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.json
+*.csv
