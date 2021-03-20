@@ -139,6 +139,9 @@ PaddleDetection/
 tensorflow-yolov4-tflite/
 dataset/
 
+#ignoring large csv files
+experiment_results
+
 #ignoring image(*.jpg) file
 *.jpg
 *.jpeg
